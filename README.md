@@ -1,6 +1,9 @@
 # Task Tracker
 
 A simple task tracker application built using Node.js, Express, and MongoDB. This project demonstrates how to create, display, and manage tasks using a basic CRUD setup.
+**Note:** This project is still a work in progress and not yet complete. Features like editing and deleting tasks, authentication, and additional enhancements and much more are yet to be added.
+
+Feel free to contribute!
 
 ---
 
