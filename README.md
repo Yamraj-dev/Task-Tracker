@@ -41,7 +41,7 @@ Feel free to contribute!
    PORT=3000
    MONGO_URL=your-mongodb-connection-string
 4. Start the application:
-   npm server.js
+   node server.js
 5. Server will be live on:
    http://localhost:5000
 
